@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout << "4\t3\t2\t1\n\t4\t3\t2\n\t\t4\t3\n\t\t\t4";
+    cout << "1\tA\tB\tC\n1\t2\tA\tB\t\n1\t2\t3\tA\n1\t2\t3\t4\n";
     return 0;
 }
